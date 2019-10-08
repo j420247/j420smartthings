@@ -5,6 +5,7 @@
 <a href="https://circleci.com/gh/SmartThingsCommunity/generator-smartthings.svg?style=svg"><img src="https://circleci.com/gh/SmartThingsCommunity/generator-smartthings.svg?style=svg"></a>
 <a href="https://david-dm.org/SmartThingsCommunity/generator-smartthings"><img src="https://david-dm.org/SmartThingsCommunity/generator-smartthings.svg?theme=shields.io"></a>
 <a href="https://codecov.io/gh/SmartThingsCommunity/generator-smartthings"><img src="https://codecov.io/gh/SmartThingsCommunity/generator-smartthings/branch/master/graph/badge.svg" /></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fj420247%2Fj420smartthings?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj420247%2Fj420smartthings.svg?type=shield"/></a>
 </p>
 
 > Generates a SmartThings SmartApp application
@@ -90,3 +91,6 @@ can read and share information.
 Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 Copyright 2019 SmartThings, Inc.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj420247%2Fj420smartthings.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj420247%2Fj420smartthings?ref=badge_large)
