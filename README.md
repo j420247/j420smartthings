@@ -1,5 +1,7 @@
 # generator-smartthings
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ca691326305f422c8ea6f766e2e18b90)](https://app.codacy.com/manual/boxma189/j420smartthings?utm_source=github.com&utm_medium=referral&utm_content=j420247/j420smartthings&utm_campaign=Badge_Grade_Settings)
+
 <p align="center">
 <a href="https://npmjs.org/package/generator-smartthings"><img src="https://badge.fury.io/js/generator-smartthings.svg"></a>
 <a href="https://circleci.com/gh/SmartThingsCommunity/generator-smartthings.svg?style=svg"><img src="https://circleci.com/gh/SmartThingsCommunity/generator-smartthings.svg?style=svg"></a>
